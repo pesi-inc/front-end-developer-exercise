@@ -20,7 +20,7 @@ Using the accompanying `index.html`, `index.css`, and `messages.json` files as r
 
 Feel free to use the included HTML in `index.html` and styles in `index.css` or introduce your own markup and styling.
 
-# Deliverables
+## Deliverables
 
 - An Angular or React application which meets the above criteria and which can be run locally via NPM or Yarn
 
